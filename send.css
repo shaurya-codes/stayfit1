@@ -1,0 +1,35 @@
+
+body{
+    background-color: rgb(151, 68, 68);
+}
+
+.left{
+    color: white;
+      /* border: 2px solid green; */
+      display: inline-block;
+      position: absolute;
+      top:12px;
+      left: 34px;
+    }
+    
+img{
+    width: 70px;
+    filter: invert(100%);
+    border: 2px solid red;
+}
+
+.ctc{
+    color: white;
+    margin-top: 150px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 80px;
+    text-align:center;
+    /* text-decoration: underline; */
+      
+}
+
+h2,a{
+    text-align: center;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}

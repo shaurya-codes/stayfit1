@@ -1,0 +1,124 @@
+/* *{ */
+    /* font-family: */
+/* } */
+body{
+   
+    margin: 0px;
+    padding: 0px;
+    background:url(Project\ 1\ main\ image.jpg)
+}
+
+
+.header{
+    font-family: 'Encode Sans SC', sans-serif;
+    
+}
+.left{
+    color: white;
+      /* border: 2px solid green; */
+      display: inline-block;
+      position: absolute;
+      top:12px;
+      left: 34px;
+    }
+.mid{
+    /* background: linear-gradient(black,white); */
+    background-color:  #5a4c41c4;
+    /* width: 30%; */
+    color: white;
+    /* border: 2px solid yellow; */
+    margin:12px auto;
+    width: 700px;
+    position: sticky;
+   border-radius: 15px;  
+    }
+.right{
+    position: absolute;
+    top:12px;
+    right: 40px;
+    color: white;
+    /* border: 2px solid red; */
+    display: inline-block;
+    
+}
+.navbar{
+    display: inline-block;
+    /* margin: 200px; */
+}
+.navbar li{
+    display: inline-block;
+     font-size: 20px;
+     
+}
+.navbar li a{
+    color: white;
+    text-decoration: none;
+    margin: 0px 30px;
+    padding: 34px 13px;
+}
+img{
+    width: 70px;
+    filter: invert(100%);
+    border: 2px solid red;
+}
+
+.butt{
+    padding: 10px 30px;
+    cursor: pointer;
+    background: linear-gradient(blue,black);
+    border: 2px solid goldenrod;
+    font-family: 'Encode Sans SC', sans-serif;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.butt:active{
+    background: rgb(27, 25, 25);
+}
+button,a{
+     text-decoration: none;
+     color: white;
+}
+.container{
+    /* margin-bottom: 10px; */
+    color:white;
+    /* border: 2px solid white; */
+    /* border-bottom: 4px solid white; */
+    margin:  90px 55px;
+    padding: 90px 15px;
+    
+    border-radius: 5px;
+    width: 39%;
+    text-align: center;
+}
+.form{
+    margin-bottom: 20px;
+    /* margin-right: 10%; */
+
+}
+.head{
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+#sub{
+    font-size: 20px;
+    margin-top: 10px;
+    padding: 13px 36px;
+    background-color: rgb(231, 66, 66);
+    border-radius: 10px;
+    color: rgb(243, 255, 177);
+    
+}
+#sub:hover{
+
+    background-color: plum;
+    cursor: pointer;
+}
+#sub:active{
+       background-color: rgb(189, 100, 100);
+}
+#cont{
+    margin-right: 68px;
+}
+#age{
+    margin-left: 17px;
+}

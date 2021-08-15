@@ -1,0 +1,110 @@
+.img{
+    width: 70px;
+    filter: invert(100%);
+    border: 2px solid red;
+}
+.shut{
+    width: 800px;
+    margin-top: 100px ;
+    /* border: 9px solid rgba(0, 0, 0, 0.541); */
+    border-radius: 20px;
+}
+
+#stay{ 
+    text-align: center;
+    /* border: 2px solid black; */
+    /* font-family: 'Poppins', sans-serif; */
+    color: white;
+}
+.left{
+    /* color: white; */
+      /* border: 2px solid green; */
+      display: inline-block;
+      position: absolute;
+      top:12px;
+      left: 34px;
+      font-family: 'Poppins', sans-serif;
+    }
+    .mid{
+        /* background: linear-gradient(black,white); */
+        background-color:  #5a4c41c4;
+        /* width: 30%; */
+        color: white;
+        /* border: 2px solid yellow; */
+        margin:12px auto;
+        width: 730px;
+       border-radius: 15px;  
+        }
+        .navbar{
+            display: inline-block;
+            /* margin: 200px; */
+        }
+        .navbar li{
+            display: inline-block;
+             font-size: 0px;
+             
+        }
+        .navbar li a{
+            color: white;
+            text-decoration: none;
+            margin: 0px 30px;
+            padding: 0px 13px;
+            font-family: 'Poppins', sans-serif;
+            font-size: 20px;
+        }
+        
+body{
+    
+      background: linear-gradient(rgb(140 71 71), rgb(70, 70, 61));
+  }
+.form{
+    color: rgb(255, 202, 202);
+    margin-left: 888px;
+    font-size: 20px;
+    /* margin-bottom:100px ; */
+    font-family: 'Poppins', sans-serif;
+    top: 630px;
+
+    position: absolute;
+}
+     .for1{
+        margin: 10px 0px;
+         font-size: 15px;
+         /* margin-bottom: 100px; */
+     }
+     #for2{
+        margin: 10px 0px;
+        font-size: 15px;
+    }
+.bor{
+    background-color: tomato;
+    border:  2px solid rgba(51, 31, 31, 0);
+    padding: 10px 45px;
+    margin-left: 960px;
+    margin-top: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    border-radius: 20px;
+    color: white;
+    position: relative;
+    bottom: 230px;
+     
+}    
+.bor:active{
+    background-color:  rgb(0, 0, 0);
+}
+button,a{
+    text-decoration: none;
+    color: white;
+}
+.bor:hover{
+    background-color: rgb(126, 42, 42);
+}
+.ctc{
+    color: white;
+    margin-top: 100px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 90px;
+    text-align:center;
+    /* text-decoration: underline; */
+}

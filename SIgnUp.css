@@ -1,0 +1,105 @@
+/* body{
+      background: linear-gradient(rgb(140 71 71), rgb(70, 70, 61));
+  } */
+
+.me{
+     text-align: center;
+     margin-top: 100px;
+     font-size: 18px;
+     /* font-family: 'Poppins', sans-serif; */
+     color: white;
+  }
+  #me1{
+      margin-bottom: 20px;
+      
+    }
+  
+  #me2{
+    margin-bottom: 20px;
+        
+}
+
+#me3{
+    margin-bottom: 20px;
+    margin-left: 16px;
+        
+}
+
+/* #me4{
+    margin-bottom: 20px;
+    margin-left: 16px;
+} */
+.DOB{
+     margin-right: 81px;
+             
+}
+.city{
+    margin-left: 14px;
+        
+}
+body{
+    background-color: rgb(151, 68, 68);
+}
+
+.butt{
+    padding: 10px 35px;
+    cursor: pointer;
+    background-color: rgb(233, 105, 105) ;
+    border: 2px solid rgba(223, 178, 67, 0);
+    font-family: 'Encode Sans SC', sans-serif;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button,a{
+    text-decoration: none;
+    color:white;
+}
+.butt:hover{
+   background-color: rgb(119, 58, 58);   
+   /* padding: 0px 200px; */
+}
+.cancel{
+    background-color: rgb(255, 182, 169);
+    margin-top: 20px;
+    
+    padding: 10px 35px;
+    cursor: pointer;
+    /* background-color: rgb(233, 105, 105) ; */
+    border: 2px solid rgba(223, 178, 67, 0);
+    font-family: 'Encode Sans SC', sans-serif;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.cancel:hover{
+    background-color: red;
+}
+.papa{
+    margin-top:35px;
+    margin-left: 610px;
+}
+
+img{
+    width: 70px;
+    filter: invert(100%);
+    border: 2px solid red;
+}
+
+.left{
+    color: white;
+      /* border: 2px solid green; */
+      display: inline-block;
+      position: absolute;
+      top:12px;
+      left: 34px;
+    }
+    
+.ctc{
+    color: white;
+    margin-top: 100px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 70px;
+    text-align:center;
+    /* text-decoration: underline; */
+      
+}

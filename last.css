@@ -1,0 +1,41 @@
+h2{
+    text-align: center;
+    margin-top: 200px ;
+    font-size: 40px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-color: rgb(151, 68, 68);
+}
+.last{
+    
+    padding: 10px 30px;
+    cursor: pointer;
+    background-color: rgb(233, 105, 105) ;
+    border: 2px solid rgba(223, 178, 67, 0);
+    font-family: 'Encode Sans SC', sans-serif;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-left:550px ;
+    margin-bottom: 0px;
+}
+
+.left{
+    color: white;
+      /* border: 2px solid green; */
+      display: inline-block;
+      position: absolute;
+      top:12px;
+      left: 34px;
+    }
+img{
+    width: 70px;
+    filter: invert(100%);
+    border: 2px solid red;
+}
+button,a{
+    color: peachpuff;
+    text-decoration: none;
+}
